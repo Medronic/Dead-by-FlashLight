@@ -1,0 +1,62 @@
+{"ptbr":
+[
+  {
+      "menu": "Menu:\n0 - Ativar\n1 - Alterar Configurações\n2 - Tutorial\n3 - Criador do Programa\nDigite: ",
+      "menuOption0": ["0", "ativar", "Ativar", "ATIVAR"],
+      "menuOption1": ["1", "alterar configurações", "Alterar Configurações", "ALTERAR CONFIGURAÇÕES", "alterar configuracoes", "alterar configurações"],
+      "menuOption2": ["2", "tutorial", "Tutorial", "TUTORIAL"],
+      "menuOption3": ["3", "criador do programa", "Criador do Programa", "CRIADOR DO PROGRAMA"],
+    "msgAutoStartEnabled": "Macro foi iniciado automaticamente por causa da função AutoStartMacro está configurada como: {}",
+    "msgEnabledMacro": "Macro ativado com sucesso, para utilizar pressione: {}. OU, Desativar pressione: {}",
+    "msgDisabledMacro": "Macro desativado com sucesso!",
+    "msgCurrentSettings": "Atual Configurações:\nIdioma: {}\nAutomaticamente iniciar Macro: {}\nDelay do Macro: {}\nTecla para Utilizar: {}\nTecla para Desabilitar: {}",
+    "msgTutorial": "Ativar o Macro: {}, Desativar: {}",
+    "funChangeLanguage": "Escolha seu idioma: ",
+    "funChangeAutoStart": "Auto iniciar Macro: ",
+    "funmsChange": "Quanto de MS (exemplo - 0.25): ",
+    "funKeyChange": "Tecla para utilizar o macro: ",
+    "funKeyToDisable": "Tecla para desativar o macro: ",
+    "msgSuccess": "As configurações foram alteradas com sucesso! Voltaremos ao menu principal."
+  }
+],
+  "en": [
+    {
+      "menu": "Menu:\n0 - Enable\n1 - Change Settings\n2 - Tutorial\n3 - Program developer\nYour choice: ",
+      "menuOption0": ["0", "enable", "Enable", "ENABLE"],
+      "menuOption1": ["1", "change settings", "Change Settings", "CHANGE SETTINGS"],
+      "menuOption2": ["2", "tutorial", "Tutorial", "TUTORIAL"],
+      "menuOption3": ["3", "program developer", "Programa Developer", "PROGRAMA DEVELOPER", "dev"],
+    "msgAutoStartEnabled": "The macro was started automatically because the AutoStartMacro function is configured as: {}",
+    "msgEnabledMacro": "Macro successfully activated, to use press: {}. OR, Disable press: {}",
+    "msgDisabledMacro": "Macro deactivated successfully!",
+    "msgCurrentSettings": "Current Settings:\nLanguage: {}\nAutomatically start Macro: {}\nMacro Delay: {}\nKey to Use: {}\nDisable key: {}",
+    "msgTutorial": "\nEnable Macro: {}, Disable Macro:{}",
+    "funChangeLanguage": "Choose your language: ",
+    "funChangeAutoStart": "Auto start Macro: ",
+    "funmsChange": "How much MS (example - 0.25): ",
+    "funKeyChange": "Key to use the macro: ",
+    "funKeyToDisable": "Key to disable macro: ",
+    "msgSuccess": "The settings have been successfully changed! We will return to the main menu."
+    }
+  ],
+  "custom": [
+    {
+      "menu": "Menu:\n0 - Enable\n1 - Change Settings\n2 - Tutorial\n3 - Program developer\nYour choice: ",
+      "menuOption0": ["0", "enable", "Enable", "ENABLE"],
+      "menuOption1": ["1", "change settings", "Change Settings", "CHANGE SETTINGS"],
+      "menuOption2": ["2", "tutorial", "Tutorial", "TUTORIAL"],
+      "menuOption3": ["3", "program developer", "Programa Developer", "PROGRAMA DEVELOPER", "dev"],
+    "msgAutoStartEnabled": "The macro was started automatically because the AutoStartMacro function is configured as: {}",
+    "msgEnabledMacro": "Macro successfully activated, to use press: {}. OR, Disable press: {}",
+    "msgDisabledMacro": "Macro deactivated successfully!",
+    "msgCurrentSettings": "Current Settings:\nLanguage: {}\nAutomatically start Macro: {}\nMacro Delay: {}\nKey to Use: {}\nDisable key: {}",
+    "msgTutorial": "\nEnable Macro: {}, Disable Macro:{}",
+    "funChangeLanguage": "Choose your language: ",
+    "funChangeAutoStart": "Auto start Macro: ",
+    "funmsChange": "How much MS (example - 0.25): ",
+    "funKeyChange": "Key to use the macro: ",
+    "funKeyToDisable": "Key to disable macro: ",
+    "msgSuccess": "The settings have been successfully changed! We will return to the main menu."
+    }
+  ]
+}
