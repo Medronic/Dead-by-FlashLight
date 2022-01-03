@@ -1,3 +1,3 @@
 keyboard
 pyautogui
-colorama1
+coloram
